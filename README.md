@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer/ React Native Developer/ Cybersecurity Enthusiast 
+Full Stack Web Developer | React Native Developer | Cybersecurity Enthusiast 
 
 
 ## 🌐 Socials:
