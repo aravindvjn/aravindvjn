@@ -1,6 +1,6 @@
-# Who am I ?:
+# Who am I ?
 Full Stack Web Developer | React Native Developer | Cybersecurity Enthusiast 
-[more](https://aravind-vijayan-profile.vercel.app)
+[Visit Portfolio](https://aravind-vijayan-profile.vercel.app)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/6windh) 
 
