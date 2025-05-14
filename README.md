@@ -1,5 +1,5 @@
 # Who am I ?
-Full Stack Web Developer | React Native Developer | Cybersecurity Enthusiast
+Software Engineer | Data Scientist | Cybersecurity Enthusiast
 
 [Visit My Portfolio](https://aravindvijayan.vercel.app)
 
