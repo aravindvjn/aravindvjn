@@ -1,5 +1,5 @@
 # Who am I ?
-Software Engineer | Data Scientist | Cybersecurity Enthusiast
+Software Engineer | Data Scientist | Data Engineer | Cybersecurity Enthusiast
 
 [Visit My Portfolio](https://aravindvijayan.vercel.app)
 
