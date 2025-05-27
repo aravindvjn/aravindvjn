@@ -32,7 +32,7 @@ Software Engineer | Data Scientist | Cybersecurity Enthusiast
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Mobile:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Expo](https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
