@@ -1,5 +1,5 @@
 # Who am I ?
-Software Engineer | Data Scientist | Data Engineer | Cybersecurity Enthusiast
+Software Engineer | Data Engineer | Cybersecurity Enthusiast
 
 [Visit My Portfolio](https://aravindvijayan.vercel.app)
 
@@ -37,12 +37,6 @@ Software Engineer | Data Scientist | Data Engineer | Cybersecurity Enthusiast
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### Data Science
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
