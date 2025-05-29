@@ -26,6 +26,9 @@ Software Engineer | Data Engineer | Cybersecurity Enthusiast
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
 ![Expo](https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Handlebars](https://img.shields.io/badge/handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 
 ---
 
